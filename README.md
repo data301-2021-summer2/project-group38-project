@@ -1,6 +1,6 @@
 # Group YYY - {Short snappy Title of your project}
 
-- Your title can change over time.
+Changes in daily temperature in Kelowna, BC Canada
 
 ## Milestones
 
@@ -8,17 +8,18 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+I am interested in seeing if there has been a significant change in climate patterns in Kelowna in the past few years. 
+Climate plays a huge role in various parts of our daily lives, and it is important to understand trends to be better prepared for the future.
+
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+My data set describes daily temperatures in Kelowna. It spans from January 2007, to June 2021.
+It also includes information about humidity, wind, average hourly temperatures, extremes, pressure and visibility.
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- I am a fourth year student studying EESC at UBCO
 
 ## References
 
