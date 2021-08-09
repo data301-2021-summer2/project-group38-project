@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 38 - Changes in Climate
 
 Changes in daily temperature in Kelowna, BC Canada
 
